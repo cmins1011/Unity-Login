@@ -1,2 +1,2 @@
 # Unity-Login
-XREAL Login
+XREAL Jellysis Server
